@@ -1,0 +1,8 @@
+ct001#chinh tri 1#Vu Ngoc Linh#Nhi Dong#20000#2015#32#12/2/2017#4
+ct002#chinh tri 2#Vu Ngoc Linh#Nhi Dong#20000#2015#32#12/2/2017#1
+bt001#ID Technology#Danh Nghi Chinh#Lavaldo#40000#2016#32#14/2/2016#0
+ct003#Chinh tri 3 BD#Vu ngoc Linh#Nhi Dong#23000#2016#32#1/1/2017#3
+dt001#Day con biet di#Lam Chi Vu#Thien An#20000#2000#32#16/2/1998#0
+fr200#Frank and I#Luyn#Tyun#26000#2015#32#1/1/2017#0
+gh200#Gao Coi Tram Nam#Tranh Thang#Nhi Dong#26000#2015#22#2/1/2000#7
+ct006#chinh tri 6#akb th#nhi dong#20000#2000#12#1/1/1999#8
